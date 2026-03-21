@@ -2,3 +2,5 @@ env/
 kaggle.json
 __pycache__/
 emotion_data/
+.vscode/
+.ipynb_checkpoints/
